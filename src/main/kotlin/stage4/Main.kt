@@ -9,6 +9,11 @@ import javax.imageio.ImageIO
 
 const val END_MARKER = "\u0000\u0000\u0003"
 
+/**
+ * Mohammad Jan Naser
+ * CEO Softelino.com
+ */
+
 fun main() {
     while (true) {
         println("Task (hide, show, exit):")
